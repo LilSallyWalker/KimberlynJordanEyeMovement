@@ -9,9 +9,9 @@ This will run locally in your browser from index.html if you download all files 
 
 Built with
 
-Javascript
 HTML
 CSS
+Javascript
 
 Planned Future Improvements
 Change the math on the movement so that the eyes focus on a point 10" in front of the screen
